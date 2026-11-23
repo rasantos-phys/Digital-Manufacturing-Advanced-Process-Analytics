@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-This repository presents an industrial-grade portfolio of three data science use cases tailored for **Digital Manufacturing** in highly regulated environments (such as pharmaceutical and peptide synthesis plants like Bachem). It demonstrates how to combine machine learning, multivariate statistical process control **(MSPC)**, and rigorous software validation while adhering strictly to **GMP** (Good Manufacturing Practices), **ALCOA+** data integrity principles, and **CSV** (Computerized Systems Validation).
+This repository presents an industrial-grade portfolio of three data science use cases tailored for **Digital Manufacturing** in highly regulated environments (such as pharmaceutical and peptide synthesis plants). It demonstrates how to combine machine learning, multivariate statistical process control **(MSPC)**, and rigorous software validation while adhering strictly to **GMP** (Good Manufacturing Practices), **ALCOA+** data integrity principles, and **CSV** (Computerized Systems Validation).
 
 ---
 
